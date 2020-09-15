@@ -7,6 +7,7 @@ namespace Killer
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Maby ill destroy this");
         }
     }
 }
