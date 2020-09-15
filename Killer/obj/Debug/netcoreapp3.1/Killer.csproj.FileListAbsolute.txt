@@ -1,0 +1,13 @@
+C:\Programming\2020\VisualStudio\CSharp\Killer\bin\Debug\netcoreapp3.1\Killer.exe
+C:\Programming\2020\VisualStudio\CSharp\Killer\bin\Debug\netcoreapp3.1\Killer.deps.json
+C:\Programming\2020\VisualStudio\CSharp\Killer\bin\Debug\netcoreapp3.1\Killer.runtimeconfig.json
+C:\Programming\2020\VisualStudio\CSharp\Killer\bin\Debug\netcoreapp3.1\Killer.runtimeconfig.dev.json
+C:\Programming\2020\VisualStudio\CSharp\Killer\bin\Debug\netcoreapp3.1\Killer.dll
+C:\Programming\2020\VisualStudio\CSharp\Killer\bin\Debug\netcoreapp3.1\Killer.pdb
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.csprojAssemblyReference.cache
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.AssemblyInfoInputs.cache
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.AssemblyInfo.cs
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.csproj.CoreCompileInputs.cache
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.dll
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.pdb
+C:\Programming\2020\VisualStudio\CSharp\Killer\obj\Debug\netcoreapp3.1\Killer.genruntimeconfig.cache

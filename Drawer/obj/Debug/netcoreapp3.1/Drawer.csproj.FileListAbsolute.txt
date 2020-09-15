@@ -1,0 +1,13 @@
+C:\Programming\2020\VisualStudio\CSharp\Drawer\bin\Debug\netcoreapp3.1\Drawer.exe
+C:\Programming\2020\VisualStudio\CSharp\Drawer\bin\Debug\netcoreapp3.1\Drawer.deps.json
+C:\Programming\2020\VisualStudio\CSharp\Drawer\bin\Debug\netcoreapp3.1\Drawer.runtimeconfig.json
+C:\Programming\2020\VisualStudio\CSharp\Drawer\bin\Debug\netcoreapp3.1\Drawer.runtimeconfig.dev.json
+C:\Programming\2020\VisualStudio\CSharp\Drawer\bin\Debug\netcoreapp3.1\Drawer.dll
+C:\Programming\2020\VisualStudio\CSharp\Drawer\bin\Debug\netcoreapp3.1\Drawer.pdb
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.csprojAssemblyReference.cache
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.AssemblyInfoInputs.cache
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.AssemblyInfo.cs
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.csproj.CoreCompileInputs.cache
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.dll
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.pdb
+C:\Programming\2020\VisualStudio\CSharp\Drawer\obj\Debug\netcoreapp3.1\Drawer.genruntimeconfig.cache
