@@ -8,7 +8,7 @@ namespace Killer
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Maby ill destroy this");
-            Console.WriteLine("Maby no...")
+            Console.WriteLine("Maby no...");
         }
     }
 }
